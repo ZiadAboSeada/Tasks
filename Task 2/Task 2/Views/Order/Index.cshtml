@@ -1,0 +1,15 @@
+﻿@model List<OrderwithCustomer>
+@{
+    ViewData["Title"] = "OrdIndexVM";
+}
+
+<h1>OrdIndexVM</h1>
+<ul>
+    @foreach (var x in Model){
+
+<li>OrderID:@x.OrderId</li>
+<li>CustomerName: @x.CustomerName</li>
+<li>CustomerPhone : @x.CustomerPhone</li>
+<li>CustomerEmail: @x.CustomerEmail</li>
+    }
+</ul>
