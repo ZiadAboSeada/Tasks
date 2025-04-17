@@ -1,0 +1,19 @@
+﻿@model List<OrderwithCustomer>
+@{
+    ViewData["Title"] = "OrdIndexVM";
+}
+<a href="/Order/Create" class="btn btn-primary">Create new order</a>
+
+
+<h1>OrdIndexVM</h1>
+<ul>
+    @foreach (var x in Model){
+
+<li>OrderID:@x.OrderId</li>
+<li>CustomerName: @x.CustomerName</li>
+<li>CustomerPhone : @x.CustomerPhone</li>
+<li>CustomerEmail: @x.CustomerEmail</li>
+        <li> <a href="/Order/Delete/@x.OrderId" class="btn-primary">Delete</a> </li>
+        <li> <a href="/Order/UpdateForm/@x.OrderId" class="btn-warning">Update</a> </li>
+    }
+</ul>

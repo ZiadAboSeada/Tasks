@@ -1,0 +1,20 @@
+﻿x
+@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<a href="/Category/Create" class="btn btn-primary">Create new category</a>
+
+<h2>Categories</h2>
+<ul>
+
+    @foreach (var category in (List<Task_2.Models.Category>)ViewData["cat"])
+    {
+        <li>@category.Id</li>
+        <li>@category.Name</li>
+        <li>@category.Description</li>
+        <li> <a href="/Category/Delete/@category.Id" class="btn-primary">Delete</a> </li>
+        <li> <a href="/Category/UpdateForm/@category.Id" class="btn-warning">Update</a> </li>
+    }
+</ul>

@@ -1,0 +1,22 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Prodcuts</h1>
+<a href="/Products/Create" class= "btn btn-primary">Create new Product</a> 
+<ul>
+    @foreach(var product in (List<Task_2.Models.Product>)ViewData["prod"])
+        {
+            <li>ID : @product.Id</li>
+            <li>Name : @product.Name</li>
+            <li>Price : @product.price</li>
+            <li>Description : @product.Description</li>
+            <li>@product.Img</li>
+            <li>CategoryId : @product.CategoryId</li
+            <li> <a href="/Products/delete/@product.Id" class="btn-primary">delete</a> </li>
+            <li> <a href="/Products/UpdateForm/@product.Id" class="btn-warning">Update</a> </li>
+          }
+    
+
+</ul>

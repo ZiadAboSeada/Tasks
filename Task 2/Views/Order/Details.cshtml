@@ -1,0 +1,25 @@
+﻿@model OrderWithItemsProducts
+
+<h2>Order Details</h2>
+
+<ul>
+    <li><strong>Order ID:</strong> @Model.OrderId</li>
+    <li><strong>Order Date:</strong> @Model.OrderDate.ToShortDateString()</li>
+    <li><strong>Total Amount:</strong> $@Model.OrderTotalAmount</li>
+</ul>
+
+<h3>Items</h3>
+<ul>
+    <li><strong>Item Quantity:</strong> @Model.ItemQuantity</li>
+    <li><strong>Total Item Price:</strong> $@Model.ItemPrice</li>
+</ul>
+
+<h3>Product Details</h3>
+<ul>
+    <li><strong>Product ID:</strong> @Model.ProductId</li>
+    <li><strong>Product Name:</strong> @Model.ProductName</li>
+    <li><strong>Product Description:</strong> @Model.ProductDescription</li>
+    <li><strong>Product Category ID:</strong> @Model.ProductCategoryId</li>
+    <li><strong>Product Price:</strong> $@Model.ProductPrice</li>
+</ul>
+

@@ -1,0 +1,17 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "UpdateForm";
+}
+
+<h1>UpdateForm</h1>
+<form action="/Order/Edit/@Model.Id" method="post">
+    <div>
+        <label>order Amount</label>
+        <input name="TotalAmount" id="Description" type="number" class="form-control" />
+    </div>
+    <div>
+        <label>Customer Id</label>
+        <input name="CustomerId" id="CustomerID" value="@Model.CustomerId" type="number" class="form-control" />
+    </div>
+    <input type="submit" value="create" />
+    </form>
