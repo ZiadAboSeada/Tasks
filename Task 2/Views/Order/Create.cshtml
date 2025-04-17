@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<form action="/Order/save" method="get">
+    <div>
+        <label>Order Name</label>
+        <input name="Name" id="Name" type="text" class="form-control" />
+    </div>
+
+    <div>
+        <label>order Amount</label>
+        <input name="TotalAmount" id="Description" type="text " class="form-control" />
+    </div>
+    <div>
+        <label>Customer Id</label>
+        <input name="CustomerId" id="CustomerID" type="text " class="form-control" />
+    </div>
+    <input type="submit" value="create" />
+
+
+</form>

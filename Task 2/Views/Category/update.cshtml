@@ -1,0 +1,21 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "update";
+}
+
+<h1>update</h1>
+<form action="/Category/Edit/@Model.Id" method="get">
+    <div>
+        <label>Category Name</label>
+        <input name="Name" id="Name" type="text" class="form-control" />
+    </div>
+
+    <div>
+        <label>Category Description</label>
+        <input name="Description" id="Description" type="text " class="form-control" />
+    </div>
+    <input type="submit" value="Save" />
+
+
+</form>
+
