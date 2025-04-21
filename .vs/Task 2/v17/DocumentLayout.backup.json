@@ -1,58 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\TASK3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task 2\\task2\\task 2\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|c:\\users\\hp\\desktop\\task3\\task 2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CE6DBF-E0D7-4E4D-8269-73243B9ABD94}|Task 2\\Task 2.csproj|solutionrelative:task 2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Task 2\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Models\\Order.cs",
-              "RelativeToolTip": "Task 2\\Models\\Order.cs",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\TASK3\\Task 2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Task 2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\TASK3\\Task 2\\Models\\Category.cs",
+              "RelativeToolTip": "Task 2\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:53:31.148Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Update.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Products\\Update.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Update.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Products\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T00:22:31.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Update.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Order\\Update.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Update.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Order\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T23:59:18.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Create.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Order\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Create.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T23:29:04.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "update.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\update.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Category\\update.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\update.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Category\\update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T23:27:39.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T23:05:38.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Task 2\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Task 2\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswCkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:49:42.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T19:18:04.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T19:04:14.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T18:56:38.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Task 2\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Task 2\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T22:10:26.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Task 2\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Task 2\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwDcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:54:34.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Task 2\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Task 2\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAqwFIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:42:15.555Z",
+              "WhenOpened": "2025-04-21T18:08:02.499Z",
               "EditorCaption": ""
             }
           ]

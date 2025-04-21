@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\TASK3\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\Task 2.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\TASK3\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Task 2\\TASK2\\Task 2\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\TASK3\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
